@@ -13,3 +13,6 @@ What are some situations when branches would be helpful in keeping your history 
 When we are not sure that the changes will turn out well we can just branch out and then make changes to see how it turns out. 
 if all goes well we can always commit and checkout this branch as master
 
+How do the diagrams help you visualize the branch structure?
+Diagrams make it lot more easier to understand because then we can clearly identify which commits are reachable and which are not
+
