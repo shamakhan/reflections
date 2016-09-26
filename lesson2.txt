@@ -9,3 +9,7 @@ Some new questions
 How can you use the staging area to make sure you have one commit per logical change?
 with staging area we make sure the changes made in different file are not committed at once but can be individually brought into staging area and then committed
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When we are not sure that the changes will turn out well we can just branch out and then make changes to see how it turns out. 
+if all goes well we can always commit and checkout this branch as master
+
