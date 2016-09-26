@@ -5,3 +5,7 @@ How is the staging area different from the working directory and the repository?
 staging area is a temporary stage which is yet to be committed while working directory has history that is tracked.
 
 Some new questions
+
+How can you use the staging area to make sure you have one commit per logical change?
+with staging area we make sure the changes made in different file are not committed at once but can be individually brought into staging area and then committed
+
