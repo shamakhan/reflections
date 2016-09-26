@@ -1,2 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 when i initialized the repository it made a .git directory which was not present earlier. We need to do it to use the git features to track the versions.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is a temporary stage which is yet to be committed while working directory has history that is tracked.
+
+Some new questions
