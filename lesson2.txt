@@ -16,3 +16,6 @@ if all goes well we can always commit and checkout this branch as master
 How do the diagrams help you visualize the branch structure?
 Diagrams make it lot more easier to understand because then we can clearly identify which commits are reachable and which are not
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging, we bring together all the changes that were made in two branches into a single branch. we represent it that way because it clearly shows the commits that are reachable from that final branch
+
