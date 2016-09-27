@@ -16,3 +16,7 @@ or from our own GitHub account.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Having a copy of the remote helps in merging in case of conflicts.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Well to think of it we might collaborate by having a meet and discussing each others changes and accordingly collaborating
+but this would be very tedious in comparison to Git or GitHub.
