@@ -8,3 +8,9 @@ repository?
 Because we might not always want to update the changes that we make in our remote repository to the local one. We can 
 update changes when we know that valid changes have been clearly and carefully committed.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+We use branch while working on local repository to try out new things and changes which aren't sure of yet. We use clone 
+to copy a repository to local computer either from a local repository or a remote one. We use fork when we want to work 
+on someone elses repository which we don't have right to access to, so that we can work on it form our own local repository
+or from our own GitHub account.
+
