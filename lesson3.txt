@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all your work local?
+When we are working from a different place and don't want to download git, we can simply make changes to our repository from github and later pull the changes to our original repository. By using a remote repository we can be sure that the data will not be lost even if the original data gets lost from local repository.
