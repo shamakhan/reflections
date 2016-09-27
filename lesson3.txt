@@ -14,3 +14,5 @@ to copy a repository to local computer either from a local repository or a remot
 on someone elses repository which we don't have right to access to, so that we can work on it form our own local repository
 or from our own GitHub account.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Having a copy of the remote helps in merging in case of conflicts.
