@@ -20,3 +20,8 @@ Having a copy of the remote helps in merging in case of conflicts.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Well to think of it we might collaborate by having a meet and discussing each others changes and accordingly collaborating
 but this would be very tedious in comparison to Git or GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would want it when I am not sure of my changes or to try something without affecting the master branch so that others
+can continue their work smoothly without getting affected. But still working on the master branch itself has the benefit
+that we don't have to perform merge which can be sometimes tedious.
